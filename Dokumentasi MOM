@@ -1,21 +1,35 @@
----
-title: Panduan Integrasi Sistem Pembayaran
-author: Tim Technical Writer
-version: 1.0.2
----
-
-# Panduan Integrasi Payment Gateway
-
-Dokumen ini ditujukan bagi tim developer untuk mengintegrasikan sistem pembayaran baru di aplikasi web perusahaan.
-
-## 📋 Checklist Persiapan Rilis
-Sebelum memulai pengodean, pastikan kamu telah menyelesaikan hal-hal berikut:
-- [x] Mendaftar akun sandbox (uji coba) di dashboard mitra.
-- [x] Mendapatkan `API_KEY` rahasia.
-- [ ] Menyiapkan server lokal dengan HTTPS.
 
 ---
+title: Template Risalah Rapat
+author: -
 
-## 🔐 Keamanan Kunci API
+---
+### Objektif 
+* Objektifitas dalam rapat yang di bahas
+### Waktu
+* Keterangan Waktu rapat
+### Tempat
+* Keterangan tempat rapat 
+### Agenda
+* Agenda Rapat
+### Peserta
+* Peserta Rapat
 
-Saat melakukan konfigurasi sistem, perhatikan tingkat keamanan kode Anda.
+
+## 📋 Bahasan Rapat
+* Pembahasan apa saja yang terjadi dalam rapat
+- [x] etc
+- [x] etc.
+- [ ]  etc.
+
+---
+
+## 📋 Hasil Rapat / Putusan
+* berisikan tentang hasil rapat yang telah di bahas dan putusan apa yang telah dibuat dalam rapat
+
+## 📋Kesimpulan
+* Berupa isi kesimpulan dari beberapa point hasil rapat dan keputusan yang telah dibuat dalam rapat
+
+## 📋Dokumentasi
+* Dokumentasi bisa berupa dalam screenshoot rapat (*online*) atau foto aktual rapat ditempat (*offline*)
+---
