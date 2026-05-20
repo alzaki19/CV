@@ -1,0 +1,21 @@
+---
+title: Panduan Integrasi Sistem Pembayaran
+author: Tim Technical Writer
+version: 1.0.2
+---
+
+# Panduan Integrasi Payment Gateway
+
+Dokumen ini ditujukan bagi tim developer untuk mengintegrasikan sistem pembayaran baru di aplikasi web perusahaan.
+
+## 📋 Checklist Persiapan Rilis
+Sebelum memulai pengodean, pastikan kamu telah menyelesaikan hal-hal berikut:
+- [x] Mendaftar akun sandbox (uji coba) di dashboard mitra.
+- [x] Mendapatkan `API_KEY` rahasia.
+- [ ] Menyiapkan server lokal dengan HTTPS.
+
+---
+
+## 🔐 Keamanan Kunci API
+
+Saat melakukan konfigurasi sistem, perhatikan tingkat keamanan kode Anda.
