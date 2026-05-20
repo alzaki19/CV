@@ -96,40 +96,29 @@ Saya Alzaki, seorang lulusan Teknik Informatika yang memiliki pengalaman kerja s
 ### Keahlian Teknis (Skills)
 
 * Quality Assurance
-
 * Technical Documentation
-
 * Manual Testing
-
 * UI/UX Design
-
 * Memahami prinsip siklus **Agile Scrum**
-
 * Membuat Minutes of Meeting (*MOM*)
 
 ----
 ### Alat Kerja (Tools)
 
 *  **Project Management:** Jira, Trello, Open Project
-
 *  **Documentation:** Microsoft Office, Google Docs, WPS Office
-
 *  **UI/UX Design:** Adobe XD, Balsamiq
-
 *  **Flow Diagram:** Draw.io, Microsoft Visio
 
 ---
 ## 🗣️ Bahasa
 
 *  **Bahasa Indonesia:** Aktif
-
 *  **Bahasa Inggris:** Intermediate (Menengah)
 
 ---
 ## 📍 Kontak & Alamat
 
 *  **Alamat:** Perumahan Griya Bukit Jaya Blok N2/07, Kab. Bogor, Jawa Barat, 16962
-
 *  **Telepon:** +62 855-8530-806
-
 *  **Email:** alzakim091@gmail.com
